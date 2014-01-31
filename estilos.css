@@ -49,6 +49,7 @@ header #avatar img
 }
 header #logo img
 {
+	border-radius: 0.5em;
 	width: 80px;
 }
 nav
